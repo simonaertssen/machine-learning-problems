@@ -1,0 +1,2 @@
+# Red Wine Quality
+Simple and clean practice dataset for regression or classification modelling. See the original problem formulation [here](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
